@@ -1,9 +1,12 @@
 # populate-canvas-through-json
 Populate canvas with images and text through a json file
 
+
 The json file has two main nodes, 'fonts' and 'assets'. Fonts contains the paths and names of the fonts and assets contains the text and images.
 
+
 The asset nodes are loaded sequentially so the last asset will be the one on the top of the canvas. The subnodes for the assets are as follows (the ones with asterisk are mandatory)
+
 
 type*: Whether it's text or img
 
