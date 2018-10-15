@@ -1,0 +1,82 @@
+{
+    "fonts": [
+        {
+            "name": "HomepageBaukastenBook",            
+            "font_weight": "normal",
+            "font_urls": {
+                "url_eot": "fonts/HomepageBaukasten-Book.eot",
+                "url_woff2": "fonts/HomepageBaukasten-Book.woff2",
+                "url_woff": "fonts/HomepageBaukasten-Book.woff",
+                "url_ttf": "fonts/HomepageBaukasten-Book.ttf",
+                "url_svg": "fonts/HomepageBaukasten-Book.svg"
+            }
+        },
+        {
+            "name": "HomepageBaukastenBold",            
+            "font_weight": "normal",
+            "font_urls": {
+                "url_eot": "fonts/HomepageBaukasten-Bold.eot",
+                "url_woff2": "fonts/HomepageBaukasten-Bold.woff2",
+                "url_woff": "fonts/HomepageBaukasten-Bold.woff",
+                "url_ttf": "fonts/HomepageBaukasten-Bold.ttf",
+                "url_svg": "fonts/HomepageBaukasten-Bold.svg"
+            }
+        }
+        
+    ],
+
+    "assets": [
+        {
+            "type": "img",
+            "url": "img/bg0.png",
+            "x": "0",
+            "y": "0"
+        },
+        {
+            "type": "img",
+            "url": "img/bg1.png",
+            "x": "0",
+            "y": "0"
+        },
+        {
+            "type": "img",
+            "url": "img/bg2.png",
+            "x": "0",
+            "y": "0"
+        },
+        {
+            "type": "img",
+            "url": "img/logo.png",
+            "x": "381",
+            "y": "113"
+        },
+        {
+            "type": "text",
+            "font": "HomepageBaukastenBold",            
+            "font_size": "43.33px",
+            "copy": "COMPANY",
+            "color": "#231f20",
+            "x": "338",
+            "y": "275",            
+            "baseline": "hanging",
+            "firefox_y_offset": "0",
+            "chrome_y_offset": "0",
+            "edge_y_offset": "0"       
+        },
+        {
+            "type": "text",
+            "font": "HomepageBaukastenBook",            
+            "font_size": "20px",
+            "copy": "Your slogan here",
+            "color": "#bdbdbd",
+            "x": "366",
+            "y": "322",            
+            "baseline": "hanging",
+            "firefox_y_offset": "0",
+            "chrome_y_offset": "0",
+            "edge_y_offset": "0"       
+        }
+    ]
+}
+
+
